@@ -4,7 +4,8 @@
 
 | Key | Value |
 |-----|-------|
-| Name | 藤井 大貴（ふじい だいき） |
+| 名前 | 藤井 大貴 |
+| Name | Daiki Fujii |
 | Birth | 1992 |
 | Location | 関西 |
 | Language | Japanese |
