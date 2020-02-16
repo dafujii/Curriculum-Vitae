@@ -14,6 +14,7 @@
 | Wantedly | https://www.wantedly.com/users/82997800 |
 | Speaker Deck | https://speakerdeck.com/dafujii |
 | note | https://note.mu/dafujii |
+| Udemy | https://www.udemy.com/user/teng-jing-da-gui/ |
 
 ## 資格
 
