@@ -15,6 +15,7 @@
 | Speaker Deck | https://speakerdeck.com/dafujii |
 | note | https://note.mu/dafujii |
 | Udemy | https://www.udemy.com/user/teng-jing-da-gui/ |
+| Hatena | https://b.hatena.ne.jp/dafujii/ |
 
 ## 資格
 
