@@ -21,6 +21,7 @@
 
 | Date    | Name |
 |---------|------|
+| 2020/02 | [AWS認定デベロッパーアソシエイト](https://www.certmetrics.com/amazon/public/badge.aspx?i=2&t=c&d=2020-02-29&ci=AWS01052985) |
 | 2019/10 | [AWS認定ソリューションアーキテクトアソシエイト](https://www.certmetrics.com/amazon/public/badge.aspx?i=1&t=c&d=2019-10-26&ci=AWS01052985) |
 | 2019/09 | [AWS認定クラウドプラクティショナー](https://www.certmetrics.com/amazon/public/badge.aspx?i=9&t=c&d=2019-09-14&ci=AWS01052985) |
 | 2017/04 | 情報処理安全確保支援士試験 |
