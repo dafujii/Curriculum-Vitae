@@ -16,6 +16,7 @@
 | note | https://note.mu/dafujii |
 | Udemy | https://www.udemy.com/user/teng-jing-da-gui/ |
 | Hatena | https://b.hatena.ne.jp/dafujii/ |
+| Acclaim | https://www.youracclaim.com/users/daiki-fujii.fe434615/badges |
 
 ## 資格
 
